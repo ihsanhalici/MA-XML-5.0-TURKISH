@@ -57,7 +57,7 @@
     <string name="note_list_none">Liste yok</string>
     <string name="note_sms_none">Mesaj yok</string>
     <string name="note_call_none">Çağrı kaydı yok</string>
-    <string name="note_keyword_none">Arama terimi uok</string>
+    <string name="note_keyword_none">Arama terimi yok</string>
     <string name="note_preference_delete">Bu mod kullanımda, silinemez!</string>
     <string name="block_message_number">Spam mesajlar:%d</string>
     <string name="block_phone_number">Spam çağrılar:%d</string>
