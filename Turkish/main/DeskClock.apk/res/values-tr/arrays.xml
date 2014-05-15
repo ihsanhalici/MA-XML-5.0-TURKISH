@@ -40,7 +40,7 @@
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Bir kez</item>
-        <item>Günlük</item>
+        <item>Hergün</item>
         <item>İş günleri</item>
         <item>Pazartesiden Cumaya</item>
         <item>Özel</item>
